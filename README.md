@@ -14,8 +14,8 @@ You may do whatever you want on this app or even on its source code under MIT Li
 Note: This application is unsigned and will not be maintained. But since, this is just an EdgeWebView2 application, just update your EdgeWebView2 for this app to be updated.
 
 ## Links (Download)
-Portable:
+Portable: https://github.com/thedoggybrad/facebook_edgewebview2/releases/download/1/Facebook_EdgeWebView2_Portable.zip
 <br>
-Setup (ZIP):
+Setup (ZIP): https://github.com/thedoggybrad/facebook_edgewebview2/releases/download/1/Facebook_EdgeWebView2_Setup.zip
 <br>
-Source Code:
+Source Code: https://github.com/thedoggybrad/facebook_edgewebview2/releases/download/1/Facebook_EdgeWebView2_Source_Code.zip
