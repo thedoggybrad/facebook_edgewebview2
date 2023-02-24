@@ -12,3 +12,10 @@ You may do whatever you want on this app or even on its source code under MIT Li
 <br>
 <br>
 Note: This application is unsigned and will not be maintained. But since, this is just an EdgeWebView2 application, just update your EdgeWebView2 for this app to be updated.
+
+## Links (Download)
+Portable:
+<br>
+Setup (ZIP):
+<br>
+Source Code:
