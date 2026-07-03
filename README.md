@@ -1,5 +1,5 @@
 # facebook_edgewebview2
-This application just uses facebook.com, running on EdgeWebView2 based on the internal beta base code of [Edgescape Navigator](https://github.com/thedoggybrad/edgescape_navigator).
+This application just uses facebook.com, running on EdgeWebView2 based on the modified v1.0 base code of [Edgescape Navigator](https://github.com/thedoggybrad/edgescape_navigator).
 <br>
 This application is created using Visual Basic 2015. 
 <br>
